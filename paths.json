@@ -1,0 +1,21 @@
+{
+  "census_dir": "/path/to/...",
+  "circuits_matthew": "/path/to/...⟨YOUR-WORKSPACE-ROOT⟩/CIRCUITS/CIRCUITS-⟨YOUR-NAME⟩",
+  "circuits_matthew_identity": "/path/to/...⟨YOUR-WORKSPACE-ROOT⟩/CIRCUITS/CIRCUITS-⟨YOUR-NAME⟩/01-core-IDENTITY.md",
+  "circuits_root": "/path/to/...⟨YOUR-WORKSPACE-ROOT⟩/CIRCUITS",
+  "dna_dir": "/path/to/...",
+  "examapp_circuits": "/path/to/...⟨YOUR-WORKSPACE-ROOT⟩/CIRCUITS/EXAMAPP SAAS - CIRCUITS",
+  "examapp_circuits_identity": "/path/to/...⟨YOUR-WORKSPACE-ROOT⟩/CIRCUITS/EXAMAPP SAAS - CIRCUITS/01-core-IDENTITY.md",
+  "firmware_dir": "/path/to/...",
+  "github_dir": "/path/to/...",
+  "hermes_nexus_soul": "/path/to/...",
+  "hermes_profiles": "/path/to/...",
+  "hermes_socialite_rs_x_soul": "/path/to/...",
+  "hermes_socialite_rsai_fb_soul": "/path/to/...",
+  "manamac_share": "/path/to/...⟨YOUR-WORKSPACE-ROOT⟩",
+  "nexus_root": "/path/to/...",
+  "reflex_dir": "/path/to/...",
+  "⟨YOUR-BRAND⟩_circuits": "/path/to/...⟨YOUR-WORKSPACE-ROOT⟩/CIRCUITS/⟨YOUR-BRAND⟩ - CIRCUITS",
+  "⟨YOUR-BRAND⟩_circuits_identity": "/path/to/...⟨YOUR-WORKSPACE-ROOT⟩/CIRCUITS/⟨YOUR-BRAND⟩ - CIRCUITS/01-core-IDENTITY.md",
+  "websites_root": "/path/to/...⟨YOUR-WORKSPACE-ROOT⟩/WEBSITES"
+}

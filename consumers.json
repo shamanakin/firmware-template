@@ -1,0 +1,69 @@
+{
+  "dna_version": "v1",
+  "dna_dir_key": "dna_dir",
+  "dna_dir": "$HOME",
+  "source_files": [
+    "SELF.md",
+    "VALUES.md",
+    "VOICE.md",
+    "MIND.md",
+    "CONTRACT.md"
+  ],
+  "consumers": [
+    {
+      "id": "\u27e8YOUR-CIRCUITS-INSTANCE\u27e9",
+      "path_key": "circuits_matthew_identity",
+      "path": "$HOME\u27e8YOUR-WORKSPACE-ROOT\u27e9/CIRCUITS/CIRCUITS-\u27e8YOUR-NAME\u27e9/01-core-IDENTITY.md",
+      "permitted_tiers": [
+        "core",
+        "business",
+        "clinical"
+      ]
+    },
+    {
+      "id": "examapp-circuits",
+      "path_key": "examapp_circuits_identity",
+      "path": "$HOME\u27e8YOUR-WORKSPACE-ROOT\u27e9/CIRCUITS/EXAMAPP SAAS - CIRCUITS/01-core-IDENTITY.md",
+      "permitted_tiers": [
+        "core",
+        "business"
+      ]
+    },
+    {
+      "id": "\u27e8YOUR-BRAND\u27e9-circuits",
+      "path_key": "\u27e8YOUR-BRAND\u27e9_circuits_identity",
+      "path": "$HOME\u27e8YOUR-WORKSPACE-ROOT\u27e9/CIRCUITS/\u27e8YOUR-BRAND\u27e9 - CIRCUITS/01-core-IDENTITY.md",
+      "permitted_tiers": [
+        "core",
+        "business"
+      ]
+    },
+    {
+      "id": "nexus",
+      "path_key": "hermes_nexus_soul",
+      "path": "$HOME",
+      "permitted_tiers": [
+        "core"
+      ]
+    },
+    {
+      "id": "socialite-rs-x",
+      "path_key": "hermes_socialite_rs_x_soul",
+      "path": "$HOME",
+      "permitted_tiers": [
+        "core",
+        "business"
+      ]
+    },
+    {
+      "id": "socialite-rsai-fb",
+      "path_key": "hermes_socialite_rsai_fb_soul",
+      "path": "$HOME",
+      "permitted_tiers": [
+        "core",
+        "business"
+      ]
+    }
+  ],
+  "legacy_marker_versions": []
+}
