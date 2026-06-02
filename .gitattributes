@@ -1,0 +1,2 @@
+# GH-007 — language bar reflects Markdown framework; Python is path/inject tooling
+*.py linguist-vendored
